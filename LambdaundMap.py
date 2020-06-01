@@ -1,3 +1,5 @@
+# lambda und map
+
 f = lambda x : x * 2
 
 # ist das lebe wie :
