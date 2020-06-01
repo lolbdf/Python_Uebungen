@@ -9,3 +9,4 @@ liste = [4, 2, 5, 6, 3]
 list2 = list(map(f, liste))
 
 print(list2[4])
+print("das hier ist echt cool")
